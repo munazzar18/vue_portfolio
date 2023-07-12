@@ -6,6 +6,9 @@
 * License: https://bootstrapmade.com/license/
 */
 
+export function myFunction() {
+  // Function code here
+
 
 (function() {
   "use strict";
@@ -262,3 +265,4 @@
   new PureCounter();
 
 })()
+}

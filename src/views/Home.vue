@@ -3,8 +3,8 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center m-0">
     <div class="hero-container" data-aos="fade-in">
       <h1>Alex Smith</h1>
-      <p>I'm Web Developer
-      <!-- <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span> -->
+      <p>I'm 
+      <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span>
       </p>
     </div>
   </section><!-- End Hero -->
